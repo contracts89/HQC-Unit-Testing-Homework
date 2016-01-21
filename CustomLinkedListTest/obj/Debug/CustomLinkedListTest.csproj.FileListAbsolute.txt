@@ -1,0 +1,8 @@
+E:\HQC\HW\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTest\bin\Debug\CustomLinkedListTest.dll
+E:\HQC\HW\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTest\bin\Debug\CustomLinkedListTest.pdb
+E:\HQC\HW\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\HQC\HW\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTest\obj\Debug\CustomLinkedListTest.csprojResolveAssemblyReference.cache
+E:\HQC\HW\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTest\obj\Debug\CustomLinkedListTest.dll
+E:\HQC\HW\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTest\obj\Debug\CustomLinkedListTest.pdb
+E:\HQC\HW\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTest\bin\Debug\CustomLinkedList.dll
+E:\HQC\HW\11. Unit-Testing-Homework\CustomLinkedList\CustomLinkedListTest\bin\Debug\CustomLinkedList.pdb
